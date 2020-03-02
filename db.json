@@ -1,208 +1,530 @@
 {
-  "transacoes":
-  [
-    {
-      "id": "5e5cf18c84ce30b9bd699ca2",
-      "loja": "LUDAK",
-      "valor": "$74.18",
-      "data": "2019-08-28T07:20:54 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c7ec206eb6791433f",
-      "loja": "HANDSHAKE",
-      "valor": "$23.47",
-      "data": "2019-03-11T03:16:30 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c4393cdc5449c0496",
-      "loja": "BRISTO",
-      "valor": "$65.77",
-      "data": "2019-05-09T01:05:14 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18cc3afa54d9655b988",
-      "loja": "EQUICOM",
-      "valor": "$12.96",
-      "data": "2019-08-05T02:32:11 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18cc158eb5c056393b5",
-      "loja": "BIFLEX",
-      "valor": "$38.25",
-      "data": "2019-10-15T06:40:31 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18cd55dee96b1f5380e",
-      "loja": "IMKAN",
-      "valor": "$20.47",
-      "data": "2020-02-01T06:34:28 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c79456823755a5d85",
-      "loja": "AMRIL",
-      "valor": "$48.55",
-      "data": "2019-09-16T01:18:39 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c500cdebdfe60f1b9",
-      "loja": "DIGIGENE",
-      "valor": "$46.94",
-      "data": "2019-10-11T08:17:04 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c55cd3ef3fb587ffe",
-      "loja": "GLUID",
-      "valor": "$78.01",
-      "data": "2019-10-21T03:57:53 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c08ee3fb8bcd2cb09",
-      "loja": "COMVENE",
-      "valor": "$47.91",
-      "data": "2019-01-25T03:48:40 +02:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18cb98aa777223f71e3",
-      "loja": "KONGLE",
-      "valor": "$52.37",
-      "data": "2019-09-01T03:58:16 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c15459af9e3cf5298",
-      "loja": "ZIPAK",
-      "valor": "$14.94",
-      "data": "2019-07-22T04:53:18 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c01735050d3647f16",
-      "loja": "ANOCHA",
-      "valor": "$38.85",
-      "data": "2019-02-19T01:17:22 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c005e6d6c0c64d5d1",
-      "loja": "ONTAGENE",
-      "valor": "$65.58",
-      "data": "2020-01-27T08:34:42 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c012748c47e8fcc6b",
-      "loja": "GINKLE",
-      "valor": "$67.56",
-      "data": "2019-12-09T04:13:07 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c154fc6ded45a67a8",
-      "loja": "EXTRAGENE",
-      "valor": "$18.63",
-      "data": "2019-05-07T06:53:56 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c4fa0d2fd392e63ad",
-      "loja": "YURTURE",
-      "valor": "$67.47",
-      "data": "2019-05-04T05:14:05 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c6063b9603962fb9b",
-      "loja": "AQUAMATE",
-      "valor": "$28.93",
-      "data": "2019-05-18T11:35:06 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18cf1e792e009e2d6c2",
-      "loja": "ULTRASURE",
-      "valor": "$21.96",
-      "data": "2020-01-19T11:02:53 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c4ca5cfd267a7f7c2",
-      "loja": "OULU",
-      "valor": "$26.24",
-      "data": "2019-08-25T04:24:14 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c5c243fb00586a17b",
-      "loja": "MEDMEX",
-      "valor": "$61.02",
-      "data": "2020-01-14T09:27:53 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c91915f6eebdc6818",
-      "loja": "CRUSTATIA",
-      "valor": "$71.53",
-      "data": "2019-08-16T02:04:44 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c6f03d3cd886cf223",
-      "loja": "ATGEN",
-      "valor": "$48.29",
-      "data": "2020-02-28T09:59:04 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c3371513278168caa",
-      "loja": "STRALOY",
-      "valor": "$64.29",
-      "data": "2019-11-25T04:29:41 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c878844d49db2aed3",
-      "loja": "EXOTERIC",
-      "valor": "$31.46",
-      "data": "2019-01-22T07:04:32 +02:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c3af31af27079cf4f",
-      "loja": "ISOTRACK",
-      "valor": "$42.57",
-      "data": "2019-06-17T07:03:03 +03:00",
-      "credit": false
-    },
-    {
-      "id": "5e5cf18c15a539e2cda3aa23",
-      "loja": "ZEROLOGY",
-      "valor": "$76.80",
-      "data": "2019-03-13T03:06:26 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18c3f34039ce47102fc",
-      "loja": "MAKINGWAY",
-      "valor": "$56.23",
-      "data": "2019-02-27T07:08:59 +03:00",
-      "credit": true
-    },
-    {
-      "id": "5e5cf18cf3898a21ba9986e8",
-      "loja": "GINK",
-      "valor": "$45.55",
-      "data": "2019-07-20T12:19:46 +03:00",
-      "credit": false
-    }
-  ]
-}
+"transacoes":
+
+[
+  {
+    "id": 1,
+    "loja": "IMAGEFLOW",
+    "valor": "$21.40",
+    "data": "2019-12-23T04:50:02 +03:00",
+    "credit": false
+  },
+  {
+    "id": 2,
+    "loja": "ANARCO",
+    "valor": "$52.92",
+    "data": "2019-04-01T10:03:09 +03:00",
+    "credit": true
+  },
+  {
+    "id": 3,
+    "loja": "RECRITUBE",
+    "valor": "$74.77",
+    "data": "2019-09-14T06:36:09 +03:00",
+    "credit": true
+  },
+  {
+    "id": 4,
+    "loja": "ZYTREK",
+    "valor": "$72.68",
+    "data": "2019-12-15T07:36:18 +03:00",
+    "credit": false
+  },
+  {
+    "id": 5,
+    "loja": "QUONATA",
+    "valor": "$70.51",
+    "data": "2019-08-05T04:29:53 +03:00",
+    "credit": false
+  },
+  {
+    "id": 6,
+    "loja": "PRINTSPAN",
+    "valor": "$12.10",
+    "data": "2019-01-03T04:55:51 +02:00",
+    "credit": true
+  },
+  {
+    "id": 7,
+    "loja": "SYBIXTEX",
+    "valor": "$76.69",
+    "data": "2019-08-13T05:46:58 +03:00",
+    "credit": false
+  },
+  {
+    "id": 8,
+    "loja": "COLUMELLA",
+    "valor": "$47.52",
+    "data": "2019-07-06T05:39:43 +03:00",
+    "credit": true
+  },
+  {
+    "id": 9,
+    "loja": "BYTREX",
+    "valor": "$22.96",
+    "data": "2019-05-05T08:00:05 +03:00",
+    "credit": false
+  },
+  {
+    "id": 10,
+    "loja": "TROPOLIS",
+    "valor": "$13.43",
+    "data": "2019-08-21T02:20:58 +03:00",
+    "credit": false
+  },
+  {
+    "id": 11,
+    "loja": "ECRATER",
+    "valor": "$32.36",
+    "data": "2019-07-14T04:34:46 +03:00",
+    "credit": true
+  },
+  {
+    "id": 12,
+    "loja": "VURBO",
+    "valor": "$20.26",
+    "data": "2020-02-06T12:37:44 +03:00",
+    "credit": false
+  },
+  {
+    "id": 13,
+    "loja": "HOTCAKES",
+    "valor": "$37.27",
+    "data": "2019-06-26T11:28:45 +03:00",
+    "credit": true
+  },
+  {
+    "id": 14,
+    "loja": "MUSAPHICS",
+    "valor": "$35.00",
+    "data": "2019-03-01T09:04:20 +03:00",
+    "credit": true
+  },
+  {
+    "id": 15,
+    "loja": "SILODYNE",
+    "valor": "$11.33",
+    "data": "2019-10-09T11:36:59 +03:00",
+    "credit": true
+  },
+  {
+    "id": 16,
+    "loja": "XTH",
+    "valor": "$46.05",
+    "data": "2019-11-18T08:39:27 +03:00",
+    "credit": true
+  },
+  {
+    "id": 17,
+    "loja": "TETRATREX",
+    "valor": "$71.22",
+    "data": "2019-06-07T07:33:09 +03:00",
+    "credit": true
+  },
+  {
+    "id": 18,
+    "loja": "ISOSWITCH",
+    "valor": "$21.51",
+    "data": "2019-03-22T08:46:04 +03:00",
+    "credit": false
+  },
+  {
+    "id": 19,
+    "loja": "FURNITECH",
+    "valor": "$23.54",
+    "data": "2019-07-21T05:53:55 +03:00",
+    "credit": false
+  },
+  {
+    "id": 20,
+    "loja": "ISOLOGICA",
+    "valor": "$70.95",
+    "data": "2019-09-09T05:35:06 +03:00",
+    "credit": false
+  },
+  {
+    "id": 21,
+    "loja": "ASSISTIX",
+    "valor": "$51.55",
+    "data": "2019-02-21T09:40:14 +03:00",
+    "credit": false
+  },
+  {
+    "id": 22,
+    "loja": "MAGNINA",
+    "valor": "$58.19",
+    "data": "2019-07-04T03:12:37 +03:00",
+    "credit": true
+  },
+  {
+    "id": 23,
+    "loja": "MARTGO",
+    "valor": "$48.95",
+    "data": "2019-08-01T04:37:53 +03:00",
+    "credit": false
+  },
+  {
+    "id": 24,
+    "loja": "SOPRANO",
+    "valor": "$19.11",
+    "data": "2019-08-17T08:51:27 +03:00",
+    "credit": false
+  },
+  {
+    "id": 25,
+    "loja": "BLEENDOT",
+    "valor": "$70.20",
+    "data": "2019-02-16T10:45:59 +02:00",
+    "credit": true
+  },
+  {
+    "id": 26,
+    "loja": "QIAO",
+    "valor": "$49.42",
+    "data": "2020-02-01T02:45:40 +03:00",
+    "credit": true
+  },
+  {
+    "id": 27,
+    "loja": "CONFERIA",
+    "valor": "$48.64",
+    "data": "2019-03-10T05:20:23 +03:00",
+    "credit": true
+  },
+  {
+    "id": 28,
+    "loja": "ZENTIX",
+    "valor": "$55.74",
+    "data": "2019-02-07T04:53:58 +02:00",
+    "credit": true
+  },
+  {
+    "id": 29,
+    "loja": "LIQUIDOC",
+    "valor": "$25.28",
+    "data": "2019-08-25T02:53:15 +03:00",
+    "credit": false
+  },
+  {
+    "id": 30,
+    "loja": "EPLOSION",
+    "valor": "$63.09",
+    "data": "2019-08-09T04:06:47 +03:00",
+    "credit": true
+  },
+  {
+    "id": 31,
+    "loja": "JAMNATION",
+    "valor": "$20.08",
+    "data": "2019-01-28T08:13:35 +02:00",
+    "credit": true
+  },
+  {
+    "id": 32,
+    "loja": "NORSUL",
+    "valor": "$16.75",
+    "data": "2019-09-29T06:52:51 +03:00",
+    "credit": true
+  },
+  {
+    "id": 33,
+    "loja": "DENTREX",
+    "valor": "$55.64",
+    "data": "2020-02-12T11:52:53 +03:00",
+    "credit": false
+  },
+  {
+    "id": 34,
+    "loja": "BRAINCLIP",
+    "valor": "$77.76",
+    "data": "2020-02-28T04:16:57 +03:00",
+    "credit": true
+  },
+  {
+    "id": 35,
+    "loja": "PRIMORDIA",
+    "valor": "$57.17",
+    "data": "2019-12-10T12:14:10 +03:00",
+    "credit": false
+  },
+  {
+    "id": 36,
+    "loja": "ACCUFARM",
+    "valor": "$61.96",
+    "data": "2019-08-26T09:26:48 +03:00",
+    "credit": true
+  },
+  {
+    "id": 37,
+    "loja": "XURBAN",
+    "valor": "$58.31",
+    "data": "2019-10-30T12:08:00 +03:00",
+    "credit": false
+  },
+  {
+    "id": 38,
+    "loja": "COSMETEX",
+    "valor": "$11.32",
+    "data": "2019-01-26T06:58:26 +02:00",
+    "credit": false
+  },
+  {
+    "id": 39,
+    "loja": "HOMELUX",
+    "valor": "$17.26",
+    "data": "2019-02-07T09:31:10 +02:00",
+    "credit": true
+  },
+  {
+    "id": 40,
+    "loja": "DEMINIMUM",
+    "valor": "$74.87",
+    "data": "2019-07-16T06:18:50 +03:00",
+    "credit": false
+  },
+  {
+    "id": 41,
+    "loja": "BOVIS",
+    "valor": "$45.26",
+    "data": "2020-02-08T02:00:30 +03:00",
+    "credit": false
+  },
+  {
+    "id": 42,
+    "loja": "UTARIAN",
+    "valor": "$77.20",
+    "data": "2020-02-05T11:53:06 +03:00",
+    "credit": true
+  },
+  {
+    "id": 43,
+    "loja": "COLLAIRE",
+    "valor": "$13.13",
+    "data": "2020-02-24T02:25:23 +03:00",
+    "credit": false
+  },
+  {
+    "id": 44,
+    "loja": "ZAGGLES",
+    "valor": "$78.21",
+    "data": "2019-02-05T11:29:02 +02:00",
+    "credit": true
+  },
+  {
+    "id": 45,
+    "loja": "LOCAZONE",
+    "valor": "$22.88",
+    "data": "2019-12-18T03:43:01 +03:00",
+    "credit": false
+  },
+  {
+    "id": 46,
+    "loja": "STROZEN",
+    "valor": "$41.56",
+    "data": "2019-11-13T10:04:34 +03:00",
+    "credit": true
+  },
+  {
+    "id": 47,
+    "loja": "CYTREK",
+    "valor": "$40.68",
+    "data": "2019-05-27T12:51:35 +03:00",
+    "credit": false
+  },
+  {
+    "id": 48,
+    "loja": "TALENDULA",
+    "valor": "$44.64",
+    "data": "2019-12-30T08:30:23 +03:00",
+    "credit": true
+  },
+  {
+    "id": 49,
+    "loja": "NEBULEAN",
+    "valor": "$58.22",
+    "data": "2019-03-11T02:35:08 +03:00",
+    "credit": false
+  },
+  {
+    "id": 50,
+    "loja": "SULFAX",
+    "valor": "$25.03",
+    "data": "2019-12-09T07:48:45 +03:00",
+    "credit": false
+  },
+  {
+    "id": 51,
+    "loja": "OVOLO",
+    "valor": "$47.58",
+    "data": "2019-07-15T11:59:06 +03:00",
+    "credit": true
+  },
+  {
+    "id": 52,
+    "loja": "DIGIAL",
+    "valor": "$55.48",
+    "data": "2019-04-10T11:55:03 +03:00",
+    "credit": false
+  },
+  {
+    "id": 53,
+    "loja": "OBONES",
+    "valor": "$73.71",
+    "data": "2019-01-13T02:51:22 +02:00",
+    "credit": false
+  },
+  {
+    "id": 54,
+    "loja": "BESTO",
+    "valor": "$74.05",
+    "data": "2019-02-16T03:51:11 +02:00",
+    "credit": false
+  },
+  {
+    "id": 55,
+    "loja": "KONGLE",
+    "valor": "$68.97",
+    "data": "2019-04-27T02:38:42 +03:00",
+    "credit": false
+  },
+  {
+    "id": 56,
+    "loja": "XINWARE",
+    "valor": "$46.16",
+    "data": "2019-09-07T05:38:39 +03:00",
+    "credit": true
+  },
+  {
+    "id": 57,
+    "loja": "CORIANDER",
+    "valor": "$35.27",
+    "data": "2019-09-06T03:46:22 +03:00",
+    "credit": true
+  },
+  {
+    "id": 58,
+    "loja": "LYRIA",
+    "valor": "$34.53",
+    "data": "2019-03-30T11:19:38 +03:00",
+    "credit": true
+  },
+  {
+    "id": 59,
+    "loja": "MUSANPOLY",
+    "valor": "$17.37",
+    "data": "2019-12-05T09:18:12 +03:00",
+    "credit": true
+  },
+  {
+    "id": 60,
+    "loja": "FREAKIN",
+    "valor": "$45.64",
+    "data": "2020-02-11T06:16:22 +03:00",
+    "credit": false
+  },
+  {
+    "id": 61,
+    "loja": "PORTICA",
+    "valor": "$11.43",
+    "data": "2019-05-01T03:40:49 +03:00",
+    "credit": false
+  },
+  {
+    "id": 62,
+    "loja": "SKYPLEX",
+    "valor": "$63.19",
+    "data": "2019-05-21T02:18:34 +03:00",
+    "credit": true
+  },
+  {
+    "id": 63,
+    "loja": "ZOARERE",
+    "valor": "$48.65",
+    "data": "2019-08-10T05:29:06 +03:00",
+    "credit": true
+  },
+  {
+    "id": 64,
+    "loja": "ZEAM",
+    "valor": "$64.13",
+    "data": "2020-01-27T10:24:35 +03:00",
+    "credit": true
+  },
+  {
+    "id": 65,
+    "loja": "REVERSUS",
+    "valor": "$12.15",
+    "data": "2020-01-16T05:11:40 +03:00",
+    "credit": true
+  },
+  {
+    "id": 66,
+    "loja": "COLAIRE",
+    "valor": "$12.37",
+    "data": "2019-04-29T11:25:39 +03:00",
+    "credit": false
+  },
+  {
+    "id": 67,
+    "loja": "DUFLEX",
+    "valor": "$42.73",
+    "data": "2020-02-25T12:20:00 +03:00",
+    "credit": true
+  },
+  {
+    "id": 68,
+    "loja": "EQUITOX",
+    "valor": "$60.66",
+    "data": "2019-08-08T11:40:04 +03:00",
+    "credit": true
+  },
+  {
+    "id": 69,
+    "loja": "SULTRAX",
+    "valor": "$33.70",
+    "data": "2019-09-12T02:03:15 +03:00",
+    "credit": false
+  },
+  {
+    "id": 70,
+    "loja": "GENEKOM",
+    "valor": "$46.75",
+    "data": "2019-07-19T07:42:11 +03:00",
+    "credit": true
+  },
+  {
+    "id": 71,
+    "loja": "PIVITOL",
+    "valor": "$48.17",
+    "data": "2019-05-12T12:18:00 +03:00",
+    "credit": true
+  },
+  {
+    "id": 72,
+    "loja": "CODACT",
+    "valor": "$58.76",
+    "data": "2019-06-15T02:20:43 +03:00",
+    "credit": true
+  },
+  {
+    "id": 73,
+    "loja": "UPLINX",
+    "valor": "$10.18",
+    "data": "2019-02-19T09:28:08 +03:00",
+    "credit": true
+  },
+  {
+    "id": 74,
+    "loja": "EBIDCO",
+    "valor": "$58.94",
+    "data": "2020-01-05T08:57:59 +03:00",
+    "credit": true
+  },
+  {
+    "id": 75,
+    "loja": "MINGA",
+    "valor": "$50.06",
+    "data": "2020-02-06T10:49:14 +03:00",
+    "credit": true
+  }
+]}
