@@ -1,4 +1,6 @@
 [
+
+  "transacoes" : [
   {
     "id": "5e5cf18c84ce30b9bd699ca2",
     "loja": "LUDAK",
@@ -202,4 +204,5 @@
     "data": "2019-07-20T12:19:46 +03:00",
     "credit": false
   }
+]
 ]
