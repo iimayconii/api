@@ -1,0 +1,205 @@
+[
+  {
+    "id": "5e5cf18c84ce30b9bd699ca2",
+    "loja": "LUDAK",
+    "valor": "$74.18",
+    "data": "2019-08-28T07:20:54 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c7ec206eb6791433f",
+    "loja": "HANDSHAKE",
+    "valor": "$23.47",
+    "data": "2019-03-11T03:16:30 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c4393cdc5449c0496",
+    "loja": "BRISTO",
+    "valor": "$65.77",
+    "data": "2019-05-09T01:05:14 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18cc3afa54d9655b988",
+    "loja": "EQUICOM",
+    "valor": "$12.96",
+    "data": "2019-08-05T02:32:11 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18cc158eb5c056393b5",
+    "loja": "BIFLEX",
+    "valor": "$38.25",
+    "data": "2019-10-15T06:40:31 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18cd55dee96b1f5380e",
+    "loja": "IMKAN",
+    "valor": "$20.47",
+    "data": "2020-02-01T06:34:28 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c79456823755a5d85",
+    "loja": "AMRIL",
+    "valor": "$48.55",
+    "data": "2019-09-16T01:18:39 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c500cdebdfe60f1b9",
+    "loja": "DIGIGENE",
+    "valor": "$46.94",
+    "data": "2019-10-11T08:17:04 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c55cd3ef3fb587ffe",
+    "loja": "GLUID",
+    "valor": "$78.01",
+    "data": "2019-10-21T03:57:53 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c08ee3fb8bcd2cb09",
+    "loja": "COMVENE",
+    "valor": "$47.91",
+    "data": "2019-01-25T03:48:40 +02:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18cb98aa777223f71e3",
+    "loja": "KONGLE",
+    "valor": "$52.37",
+    "data": "2019-09-01T03:58:16 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c15459af9e3cf5298",
+    "loja": "ZIPAK",
+    "valor": "$14.94",
+    "data": "2019-07-22T04:53:18 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c01735050d3647f16",
+    "loja": "ANOCHA",
+    "valor": "$38.85",
+    "data": "2019-02-19T01:17:22 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c005e6d6c0c64d5d1",
+    "loja": "ONTAGENE",
+    "valor": "$65.58",
+    "data": "2020-01-27T08:34:42 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c012748c47e8fcc6b",
+    "loja": "GINKLE",
+    "valor": "$67.56",
+    "data": "2019-12-09T04:13:07 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c154fc6ded45a67a8",
+    "loja": "EXTRAGENE",
+    "valor": "$18.63",
+    "data": "2019-05-07T06:53:56 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c4fa0d2fd392e63ad",
+    "loja": "YURTURE",
+    "valor": "$67.47",
+    "data": "2019-05-04T05:14:05 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c6063b9603962fb9b",
+    "loja": "AQUAMATE",
+    "valor": "$28.93",
+    "data": "2019-05-18T11:35:06 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18cf1e792e009e2d6c2",
+    "loja": "ULTRASURE",
+    "valor": "$21.96",
+    "data": "2020-01-19T11:02:53 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c4ca5cfd267a7f7c2",
+    "loja": "OULU",
+    "valor": "$26.24",
+    "data": "2019-08-25T04:24:14 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c5c243fb00586a17b",
+    "loja": "MEDMEX",
+    "valor": "$61.02",
+    "data": "2020-01-14T09:27:53 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c91915f6eebdc6818",
+    "loja": "CRUSTATIA",
+    "valor": "$71.53",
+    "data": "2019-08-16T02:04:44 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c6f03d3cd886cf223",
+    "loja": "ATGEN",
+    "valor": "$48.29",
+    "data": "2020-02-28T09:59:04 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c3371513278168caa",
+    "loja": "STRALOY",
+    "valor": "$64.29",
+    "data": "2019-11-25T04:29:41 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c878844d49db2aed3",
+    "loja": "EXOTERIC",
+    "valor": "$31.46",
+    "data": "2019-01-22T07:04:32 +02:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c3af31af27079cf4f",
+    "loja": "ISOTRACK",
+    "valor": "$42.57",
+    "data": "2019-06-17T07:03:03 +03:00",
+    "credit": false
+  },
+  {
+    "id": "5e5cf18c15a539e2cda3aa23",
+    "loja": "ZEROLOGY",
+    "valor": "$76.80",
+    "data": "2019-03-13T03:06:26 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18c3f34039ce47102fc",
+    "loja": "MAKINGWAY",
+    "valor": "$56.23",
+    "data": "2019-02-27T07:08:59 +03:00",
+    "credit": true
+  },
+  {
+    "id": "5e5cf18cf3898a21ba9986e8",
+    "loja": "GINK",
+    "valor": "$45.55",
+    "data": "2019-07-20T12:19:46 +03:00",
+    "credit": false
+  }
+]
